@@ -1,5 +1,5 @@
 # E-Food
-In the emerging global economy, e-commerce and e-business have increasingly become a necessary component of business strategy and a strong catalyst for economic development. In this circumstance, we have planned and developed an e-commerce website for online food delivery. We have designed it using many web languages and web frameworks. User will be able to access this site at anytime from anywhere.
+<p align="justify">In the emerging global economy, e-commerce and e-business have increasingly become a necessary component of business strategy and a strong catalyst for economic development. In this circumstance, we have planned and developed an e-commerce website for online food delivery. We have designed it using many web languages and web frameworks. User will be able to access this site at anytime from anywhere.
 
 Specification:<br>
 a. Two main panels one is for the user and another is for admins.<br>
