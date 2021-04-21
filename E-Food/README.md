@@ -15,5 +15,5 @@ e. Admin can login with a fixed username and password from admin login option on
 f. Admin has a dashboard from where he can check the orders and customer information which will be displayed from database.
 
 **Frontend:** HTML5, CSS3, Javascript, Bootstrap<br>
-Backend: PHP<br>
-Databases: MySQL
+**Backend:** PHP<br>
+**Databases:** MySQL
